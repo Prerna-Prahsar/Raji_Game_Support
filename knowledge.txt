@@ -1,0 +1,33 @@
+# RAJI: AN ANCIENT EPIC - OFFICIAL PLAYER SUPPORT KNOWLEDGE BASE
+
+## 🔴 CRITICAL TECHNICAL FIXES & BUGS
+- UE4 Fatal Error / Game Crash: This is often caused by a corrupted 'Saved' folder. 
+  Fix: Navigate to %LOCALAPPDATA%\Raji\Saved and delete the folder. Restart the game.
+- Black Screen / Won't Start: Force the game to run in DirectX 11.
+  Fix: In Steam/Epic properties, add '-dx11' to the Launch Options.
+- Linux/Steam Deck Cutscene Fix: If cutscenes don't play, use 'GE-Proton8-13' or later.
+- Controller Not Recognized: If your gamepad isn't working, enable 'Steam Input' in game properties or disable 'Generic Gamepad Support' in Steam global settings.
+
+## 🕹️ GAMEPLAY PROGRESSION & BLOCKERS
+- Stuck in the "Fortress of Jaidhar": A common bug causes Raji to float near climbing planks.
+  Fix: Lower your 'Overall Quality' to Low temporarily to fix the collision math, then restart from the last checkpoint.
+- Circle Gear Puzzle: If gears won't rotate, ensure all switches are toggled. If still stuck, 'Restart from Checkpoint' to reset the mechanical trigger.
+- Missing Enemies in Arena: If the magic barriers don't drop after a fight, an enemy is likely stuck out of bounds. 
+  Fix: Use 'Restart from Last Checkpoint' to reset the encounter.
+- Desert of Thar Movement Bug: If Raji cannot move after a cutscene in the Desert, toggle your VSync 'On' in the Video Settings.
+
+## ⚙️ PERFORMANCE & SYSTEM SPECS (PC)
+- Minimum Specs: Windows 7 64-bit | Intel i5-4440 / AMD FX-6300 | 8GB RAM | GTX 760 / R9 270.
+- Recommended Specs: Windows 10 | Intel i5-7400 | 16GB RAM | RTX 2060 / GTX 1070.
+- FPS Optimization: Disable 'FSR' if you experience artifacting. Set 'Post-processing' to Medium and 'Foliage' to Low for a 20% FPS boost on older hardware.
+
+## ⚔️ COMBAT & CONTROLS REFresher
+- Healing: You MUST perform a 'Finisher' (press E when the prompt appears above a dazed enemy) to regain health.
+- Movement: WASD (Move), Space (Dodge/Roll), Shift (Sprint/Wall-run).
+- Combat: LMB (Light Attack), RMB (Heavy Attack), Q (Ultimate - requires Power Orbs).
+- Elemental Swap: Use Number Keys to cycle between Lightning, Fire, and Ice.
+
+## 💬 GENERAL SUPPORT FAQ
+- Auto-save: Look for the 'Ganesh Icon' at the bottom of the screen. The game saves after every arena and puzzle.
+- Language: Supports Hindi voiceovers. Change this in Options > Gameplay > Language.
+- Difficulty: Can be changed mid-game in the Settings menu (Easy, Normal, Hard).

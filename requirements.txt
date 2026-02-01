@@ -1,0 +1,17 @@
+# Web Interface
+streamlit
+
+# Core AI & Logic
+langchain
+langchain-classic
+langchain-groq
+langchain-community
+langchain-huggingface
+
+# Monitoring & Environment
+langsmith
+python-dotenv
+
+# Vector Search & Embeddings
+faiss-cpu
+sentence-transformers
